@@ -1,0 +1,46 @@
+h1{
+    text-align: center;
+    color: white;
+    background-color: black;
+    margin: 0px;
+}
+
+nav{
+    background-color: darkblue;
+    text-align: center;
+    margin: 0px;
+}
+
+p.fw{
+    color: black;
+    font-size: 30px;
+    text-align: center;
+}
+
+h2{
+    text-align: center;
+    margin-bottom: 0px;
+}
+
+a.aboutus{
+    text-align: left;
+    margin: 0px;
+}
+
+a.getintouch{
+    text-align: center;
+    margin: 0px;
+}
+
+section.about{
+    background-color: black;
+    color: white;
+}
+
+section.featuredworks{
+    background-color: white;
+}
+
+.carrusel{
+    text-align: center;
+}
